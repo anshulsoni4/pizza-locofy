@@ -1,0 +1,81 @@
+/* fonts */
+export const FontFamily = {
+  montserratBold: "Montserrat_bold",
+  montserratMedium: "Montserrat_medium",
+  montserratSemibold: "Montserrat_semibold",
+  montserratRegular: "Montserrat_regular",
+  montserratLight: "Montserrat_light",
+  sFProTextRegular: "SF Pro Text_regular",
+  hintPlaceholder: "Roboto_regular",
+  montserratExtrabold: "Montserrat_extrabold",
+  poppinsMedium: "Poppins_medium",
+};
+/* font sizes */
+export const FontSize = {
+  size_21xl: 40,
+  size_lg: 18,
+  size_xs: 12,
+  size_3xs: 10,
+  size_base: 16,
+  hintPlaceholder_size: 11,
+  size_xl: 20,
+  size_5xl: 24,
+  size_sm: 14,
+  size_smi: 13,
+  size_9xl: 28,
+  size_13xl: 32,
+  placeholderValue_size: 17,
+  size_7xs: 6,
+};
+/* Colors */
+export const Color = {
+  red_100: "#ef1c26",
+  red_200: "#ff0000",
+  red_300: "rgba(255, 0, 0, 0.06)",
+  white: "#fff",
+  black: "#000",
+  black300B3B3B3: "#b3b3b3",
+  darkgray_100: "#aba0a0",
+  black500808080: "#808080",
+  gray_100: "#867878",
+  gray_200: "#827777",
+  gray_300: "#292929",
+  black9001A1A1A: "#1a1a1a",
+  gray_400: "#111",
+  gray_500: "rgba(0, 0, 0, 0.54)",
+  gray_600: "rgba(0, 0, 0, 0.44)",
+  lavenderblush: "#fff0f0",
+  silver_100: "rgba(196, 196, 196, 0)",
+  silver_200: "rgba(200, 188, 188, 0.22)",
+  lightgray_100: "#d6d6d6",
+  black200CCCCCC: "#ccc",
+  darkorange: "#ff7e00",
+  lightblue: "#ccecff",
+  mediumslateblue: "#6461fc",
+  black600666666: "#666",
+  black7004D4D4D: "#4d4d4d",
+  black100E5E5E5: "#e5e5e5",
+};
+/* Paddings */
+export const Padding = {
+  p_48xl: 67,
+  p_6xl: 25,
+  p_7xs: 6,
+  p_11xl: 30,
+  p_mini: 15,
+  p_smi_5: 13,
+  p_xs: 12,
+  p_3xs: 10,
+  p_base: 16,
+};
+/* border radiuses */
+export const Border = {
+  br_13xl: 32,
+  br_9xs: 4,
+  br_12xs: 1,
+  br_5xs: 8,
+  br_41xl: 60,
+  br_31xl: 50,
+  br_7xs: 6,
+  br_10xs: 3,
+};
